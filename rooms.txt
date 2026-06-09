@@ -1,0 +1,5 @@
+2,Single,1000.0,Cleaning,2
+3,Deluxe,3000.0,Available,3
+4,Single,1000.0,Occupied,2
+5,Deluxe,3000.0,Available,3
+6,Double,20000.0,Available,1
